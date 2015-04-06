@@ -1,0 +1,1 @@
+python videofacerec.py -t model.pkl 
